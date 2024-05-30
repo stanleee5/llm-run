@@ -1,0 +1,7 @@
+huggingface-hub
+loguru
+openai
+pynvml
+transformers
+tritonclient[all]
+# vllm
